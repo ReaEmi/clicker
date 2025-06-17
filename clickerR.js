@@ -1,3 +1,4 @@
+X-Content-Type-Options           = "nosniff" ;
 var autoClicker = function(clicksAtOnce, repeatInterval) {
     var cheated = false;
     var intoTheAbyss = function() {
